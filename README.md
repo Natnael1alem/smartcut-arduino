@@ -37,6 +37,7 @@ SmartCutStepper is an Arduino-based stepper motor controller that uses a keypad 
 Circuit
 ![circuit]([https://raw.githubusercontent.com/Natnael1alem/smartcut-arduino/blob/main/sensor.svg])
 <img src="https://raw.githubusercontent.com/Natnael1alem/smartcut-arduino/blob/main/sensor.svg" >
+[Download Example PDF](https://github.com/Natnael1alem/smartcut-arduino/blob/main/jigsaw_length.pdf)
 
 ## 📦 Libraries Used
 
