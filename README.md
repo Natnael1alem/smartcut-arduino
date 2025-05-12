@@ -33,7 +33,8 @@ SmartCutStepper is an Arduino-based stepper motor controller that uses a keypad 
 
 > Adjust the pin numbers in the code if your setup differs.
 
-> Circuit
+
+Circuit
 ![circuit]([https://github.com/ArdeshirV/sample/blob/master/gplv3.svg](https://github.com/Natnael1alem/smartcut-arduino/blob/main/sensor.svg))
 
 ## 📦 Libraries Used
