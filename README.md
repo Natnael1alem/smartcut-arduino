@@ -34,8 +34,8 @@ SmartCutStepper is an Arduino-based stepper motor controller that uses a keypad 
 > Adjust the pin numbers in the code if your setup differs.
 
 
-Circuit
-![circuit]([https://raw.githubusercontent.com/Natnael1alem/smartcut-arduino/blob/main/sensor.svg])
+
+## Circuit
 <img src="https://raw.githubusercontent.com/Natnael1alem/smartcut-arduino/blob/main/sensor.svg" >
 [Download Example PDF](https://github.com/Natnael1alem/smartcut-arduino/blob/main/jigsaw_length.pdf)
 
@@ -44,11 +44,13 @@ Circuit
 
 ## 📦 Libraries Used
 
+Install these via the Arduino Library Manager.
 - [Keypad](https://www.arduino.cc/reference/en/libraries/keypad/)
 - [LiquidCrystal](https://www.arduino.cc/en/Reference/LiquidCrystal)
 - [Stepper](https://www.arduino.cc/en/Reference/Stepper)
 
-Install these via the Arduino Library Manager.
+- Arduino Library for proteus
+- Ultrasonic Library Sensor Library for proteus
 
 ## 📄 How to Use
 
